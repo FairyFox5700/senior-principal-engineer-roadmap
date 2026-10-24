@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://handbook.gitlab.com/handbook/engineering/careers/matrix",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 2,
+      "url": "https://handbook.gitlab.com/handbook/engineering/careers/matrix/principal",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 3,
+      "url": "https://dropbox.github.io/dbx-career-framework/promotion_principles.html",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 4,
+      "url": "https://docs.github.com/en/get-started/using-github/github-flow",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 5,
+      "url": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 6,
+      "url": "https://google.github.io/eng-practices/review/reviewer/looking-for.html",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 7,
+      "url": "https://dora.dev/capabilities/continuous-delivery",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 8,
+      "url": "https://dora.dev/capabilities/test-automation",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 9,
+      "url": "https://dora.dev/guides/dora-metrics",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 10,
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 11,
+      "url": "https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 12,
+      "url": "https://sre.google/sre-book/service-level-objectives",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 13,
+      "url": "https://sre.google/workbook/error-budget-policy",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 14,
+      "url": "https://sre.google/workbook/postmortem-culture",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 15,
+      "url": "https://csrc.nist.gov/projects/ssdf",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 16,
+      "url": "https://owasp.org/www-project-devsecops-verification-standard/assessment/control.html?code=DES-002",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 17,
+      "url": "https://learn.microsoft.com/en-us/cloud-computing/finops/framework/finops-framework",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 18,
+      "url": "https://docs.cloud.google.com/architecture/architecture-decision-records",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 19,
+      "url": "https://developers.google.com/tech-writing",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 20,
+      "url": "https://handbook.gitlab.com/handbook/engineering/devops/dev/create/decision-making-process",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 21,
+      "url": "https://google.github.io/eng-practices",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 22,
+      "url": "https://dora.dev/capabilities/platform-engineering",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 23,
+      "url": "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 24,
+      "url": "https://learn.microsoft.com/en-us/azure/foundry/concepts/observability",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 25,
+      "url": "https://learn.microsoft.com/en-us/azure/foundry/how-to/evaluate-generative-ai-app",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 26,
+      "url": "https://genai.owasp.org/llmrisk/llm062025-excessive-agency",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 27,
+      "url": "https://backstage.io/docs/features/software-templates",
+      "title": "",
+      "accessed": "2026-10-24"
+    },
+    {
+      "id": 28,
+      "url": "https://dropbox.github.io/dbx-career-framework",
+      "title": "",
+      "accessed": "2026-10-24"
+    }
+  ]
+}
